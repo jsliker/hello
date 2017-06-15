@@ -1,0 +1,16 @@
+From 3b6e3341b22fb23891585ac458b2f3f41f5c2c6c Mon Sep 17 00:00:00 2001
+From: sliker <qdjalone@126.com>
+Date: Wed, 14 Jun 2017 01:44:18 -0700
+Subject: [PATCH 6/6] Modified file
+
+Modified file
+
+diff --git a/stu.c b/stu.c
+index e69de29..90adcd4 100644
+--- a/stu.c
++++ b/stu.c
+@@ -0,0 +1 @@
++echo 'WTF!!!'
+-- 
+2.7.4
+
