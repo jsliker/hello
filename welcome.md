@@ -17,3 +17,12 @@
 hey ! Is this fire warm to you?
 
 ![Image of 119.gov.cn](http://weixin.119.gov.cn/uploads///3/c/3/a/thumb_55f695528a6ee.jpg)
+
+
+```c
+#include<stdio.h>
+int main(void){
+printf("hello world!");
+return 0;
+}
+```
