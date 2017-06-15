@@ -15,4 +15,4 @@
 
 
 hey ! Is this fire warm to you?
-![Image of 119.gov.cn](http://weixin.119.gov.cn/index.php?a=content&g=Wap&id=170929&m=Index&token=kurvvj1425866634)
+![Image of 119.gov.cn](http://weixin.119.gov.cn/uploads///3/c/3/a/thumb_55f695528a6ee.jpg)
