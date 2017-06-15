@@ -14,10 +14,15 @@
 
 ## 一、文字修饰符
 *hello the world*
+
 _hello the world_
+
 **hello the world**
+
 __hello the world__
+
 ~~hello the world~~
+
 _hello **the** world_
 
 ---------我是分割线--------------
